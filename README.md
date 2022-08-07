@@ -10,18 +10,18 @@ The search page will be filtered based on their preferred travel criteria in ord
 to find their ideal hotel anywhere.  
 
 ## Skills  
-- Using Jupyter notebook and the **CityPy** module to get the cities for more than 500 random latitutdes and longitudes.
+- Using Jupyter notebook and the **CityPy** module to get the cities for more than 500 random latitutdes and longitudes.    
 ![Cities List](coding_images/cities_list.PNG)    
   
-- Map cities and itineraries using **Jupyter GMaps** and the **Google Places API**. 
+- Map cities and itineraries using **Jupyter GMaps** and the **Google Places API**.    
 ![Travel GMap](Vacation_Itinerrary/WeatherPy_travel_map.PNG) 
 ![Travel GMap](Vacation_Itinerrary/WeatherPy_travel_map_markers.PNG)   
   
-- Preform requests on the **OpenWeatherMap API** and retrieve current weather data. 
+- Preform requests on the **OpenWeatherMap API** and retrieve current weather data.    
 ![OpenWeatherMap Data](coding_images/city_json.PNG)  
 ![OpenWeatherMap Data](coding_images/city_pandas.PNG)    
   
-- Add weather data to a **Pandas** dataframe, and use **Matplotlib** to create a series of scatterplots to show the relationship between the latitude and a variety of weather parameters for over 500 cities around the globe.  
+- Add weather data to a **Pandas** dataframe, and use **Matplotlib** to create a series of scatterplots to show the relationship between the latitude and a variety of weather parameters for over 500 cities around the globe.    
 ![Temperature Heatmap](coding_images/temperature_heatmap.PNG)  
 ![Latitude vs Temperature](weather_data/Fig1.png)    
   
